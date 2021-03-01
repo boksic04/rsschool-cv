@@ -1,5 +1,10 @@
 # **MIKALAI BUTSKI**
 
+## **CONTACT INFORMATION**
+* TEL: +375296514916
+* e-mail: boksic04@gmail.com, fit@europe.com
+* Skype: boksic04
+
 ## **SUMMARY**
 * 15+ years overall experience in Travel industry;
 * Beginner in software engineering;
