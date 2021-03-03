@@ -12,9 +12,16 @@ body {
 }
 
 .container {
-  max-width: 928px;
+  max-width: 1440px;
   margin: 0 auto;
   padding: 0 16px;
+}
+
+.container1 {
+  max-width: 1440px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .page-header {
@@ -36,6 +43,12 @@ body {
   background-position: left;
 }
 
+ul { 
+  list-style-type: square; 
+  list-style-position: inside; 
+  color: #00417d; 
+ }
+ 
 .header-email {
   padding-left: 30px;
   background-image: url("img/icon-email-header.svg");
@@ -67,6 +80,12 @@ body {
   margin: 0;
   font-size: 32px;
   line-height: 48px;
+}
+
+img {
+  border: solid 2px;
+  border-color:#f2f4f6;
+  border-radius: 20%;
 }
 
 .intro {
