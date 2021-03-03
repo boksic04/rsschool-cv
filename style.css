@@ -12,13 +12,13 @@ body {
 }
 
 .container {
-  max-width: 928px;
+  max-width: 1440px;
   margin: 0 auto;
   padding: 0 16px;
 }
 
 .container1 {
-  max-width: 928px;
+  max-width: 1440px;
   display: flex;
   align-items: center;
   justify-content: center;
